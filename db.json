@@ -1,0 +1,86 @@
+{
+  "rooms": [
+    "110",
+    "111",
+    "120",
+    "121"
+  ],
+  "groups": [
+    "1a",
+    "1b",
+    "1c",
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b"
+  ],
+  "classes": [
+    "mat",
+    "geo",
+    "eng",
+    "phys",
+    "biol"
+  ],
+  "teachers": [
+    {
+      "teacher": "kowalski",
+      "id": 3
+    },
+    {
+      "teacher": "hammond",
+      "id": 4
+    },
+    {
+      "teacher": "atkinson",
+      "id": 5
+    },
+    {
+      "teacher": "Michalski",
+      "id": 8
+    },
+    {
+      "teacher": "Jankowska",
+      "id": 9
+    },
+    {
+      "teacher": "kowalski",
+      "id": 10
+    }
+  ],
+  "activities": [
+    {
+      "room": "110",
+      "group": "1a",
+      "class": "mat",
+      "slot": 1,
+      "teacher": "kowalski",
+      "id": 0
+    },
+    {
+      "room": "120",
+      "group": "1b",
+      "class": "geo",
+      "slot": 2,
+      "teacher": "hammond",
+      "id": 5
+    },
+    {
+      "room": "121",
+      "group": "1c",
+      "class": "mat",
+      "slot": 2,
+      "teacher": "atkinson",
+      "id": 6
+    },
+    {
+      "room": "111",
+      "group": "1a",
+      "class": "eng",
+      "slot": 6,
+      "teacher": "Jankowska",
+      "id": 7
+    }
+  ]
+}
