@@ -1,4 +1,5 @@
 # ntr_lab4
+School planner
 starting application:
 nmp start 
 
