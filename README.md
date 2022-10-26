@@ -1,5 +1,5 @@
 # ntr_lab4
-School planner
+Simple school planner in JavaScript
 
 starting application:
 nmp start 
